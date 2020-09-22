@@ -1,1 +1,1 @@
-# Echarts to do data analysis visualization
+# Echarts to do data visualization
